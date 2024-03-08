@@ -26,7 +26,7 @@ public class SuperSyharic extends Item{
             .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED,1200, 4, false, false), 1.0F)
             .build();
     public SuperSyharic() {
-        super(new Item.Properties().food(SUPER_SYHARIC).rarity(Rarity.EPIC).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(SUPER_SYHARIC).rarity(Rarity.EPIC));
     }
 
     @Override

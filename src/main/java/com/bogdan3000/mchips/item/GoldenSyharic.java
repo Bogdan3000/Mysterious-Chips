@@ -24,16 +24,16 @@ public class GoldenSyharic extends Item {
                 MobEffectInstance currentEffect = Minecraft.getInstance().player.getEffect(MobEffects.HEALTH_BOOST);
                 if (currentEffect != null) {
                     int amplifier = currentEffect.getAmplifier() + 1;
-                    return new MobEffectInstance(MobEffects.HEALTH_BOOST, Integer.MAX_VALUE, amplifier, false, false);
+                    return new MobEffectInstance(MobEffects.HEALTH_BOOST, MobEffectInstance.INFINITE_DURATION, amplifier, false, false);
                 } else {
-                    return new MobEffectInstance(MobEffects.HEALTH_BOOST, Integer.MAX_VALUE, 0, false, false);
+                    return new MobEffectInstance(MobEffects.HEALTH_BOOST, MobEffectInstance.INFINITE_DURATION, 0, false, false);
                 }
             }, 1.0F)
             .alwaysEat()
             .build();
 
     public GoldenSyharic() {
-        super(new Item.Properties().food(GOLDEN_SYHARIC_FOOD).rarity(Rarity.RARE).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(GOLDEN_SYHARIC_FOOD).rarity(Rarity.RARE));
     }
 
     @Override

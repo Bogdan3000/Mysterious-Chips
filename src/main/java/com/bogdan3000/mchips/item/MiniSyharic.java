@@ -20,6 +20,6 @@ public class MiniSyharic extends Item {
             .build();
 
     public MiniSyharic() {
-        super(new Item.Properties().food(MINI_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(MINI_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 }

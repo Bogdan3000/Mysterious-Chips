@@ -22,7 +22,7 @@ public class FishSyharic extends Item {
             .build();
 
     public FishSyharic() {
-        super(new Item.Properties().food(FISH_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(FISH_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 
     @Override

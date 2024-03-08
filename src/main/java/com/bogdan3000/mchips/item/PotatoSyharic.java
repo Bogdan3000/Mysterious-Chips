@@ -22,7 +22,7 @@ public class PotatoSyharic extends Item {
             .build();
 
     public PotatoSyharic() {
-        super(new Item.Properties().food(POTATO_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(POTATO_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 
     @Override

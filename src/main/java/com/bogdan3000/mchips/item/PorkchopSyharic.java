@@ -22,7 +22,7 @@ public class PorkchopSyharic extends Item {
             .build();
 
     public PorkchopSyharic() {
-        super(new Item.Properties().food(PORKCHOP_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(PORKCHOP_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 
     @Override
