@@ -1,0 +1,21 @@
+{
+  "item.mchips.mini_syharic": "Dried Chips",
+  "itemGroup.mchips_tab": "Mysterious Chips",
+  "item.mchips.potato_syharic": "Potato Chips",
+  "item.mchips.fish_syharic": "Fish Chips",
+  "item.mchips.classic_syharic": "Classic Chips",
+  "item.mchips.rotten_syharic": "Rotten Chips",
+  "item.mchips.porkchop_syharic": "Porkchop Chips",
+  "item.mchips.super_syharic": "Super Chips",
+  "item.mchips.golden_syharic": "Golden Chips",
+  "mchips.description.syharic": "Super chips stamped in Ashot’s backyard with super taste",
+  "mchips.description.golden_syharic.1": "Increases the effect with each use",
+  "mchips.description.golden_syharic.2": "Effect: Instant health boost",
+  "mchips.description.fish_syharic": "Effect: Movement speed",
+  "mchips.description.porkchop_syharic": "Effect: Jump boost",
+  "mchips.description.potato_syharic": "Effect: Instant Health",
+  "mchips.description.rotten_syharic": "Effect: Regeneration",
+  "mchips.description.super_syharic": "Effects: Regeneration, Strength, Fire Resistance, Absorption, Movement Speed",
+  "mchips.description.classic_syharic": "Effect: None"
+
+}

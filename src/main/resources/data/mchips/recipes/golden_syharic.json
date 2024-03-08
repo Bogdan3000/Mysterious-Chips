@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "PMP",
+    " P "
+  ],
+  "key": {
+    "M": {
+      "item": "mchips:mini_syharic"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "mchips:golden_syharic"
+  }
+}

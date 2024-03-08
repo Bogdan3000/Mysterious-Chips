@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " p ",
+    "PMP",
+    " P "
+  ],
+  "key": {
+    "M": {
+      "item": "mchips:mini_syharic"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "p": {
+      "item": "minecraft:baked_potato"
+    }
+  },
+  "result": {
+    "item": "mchips:potato_syharic"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F ",
+    "PMP",
+    " P "
+  ],
+  "key": {
+    "M": {
+      "item": "mchips:mini_syharic"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "F": {
+      "item": "minecraft:tropical_fish"
+    }
+  },
+  "result": {
+    "item": "mchips:fish_syharic"
+  }
+}
