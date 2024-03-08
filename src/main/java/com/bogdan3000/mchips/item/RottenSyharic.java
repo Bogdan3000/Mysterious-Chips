@@ -22,7 +22,7 @@ public class RottenSyharic extends Item {
             .build();
 
     public RottenSyharic() {
-        super(new Item.Properties().food(ROTTEN_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(ROTTEN_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 
     @Override

@@ -19,7 +19,7 @@ public class ClassicSyharic extends Item {
             .build();
 
     public ClassicSyharic() {
-        super(new Item.Properties().food(CLASSIC_SYHARIC).rarity(Rarity.UNCOMMON).tab(ModCreativeModeTab.MYSTERIOUS_CHIPS_TAB));
+        super(new Item.Properties().food(CLASSIC_SYHARIC).rarity(Rarity.UNCOMMON));
     }
 
     @Override
