@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: mchips
+Specification-Vendor: Bogdan3000
+Specification-Version: 1
+Implementation-Title: mchips
+Implementation-Version: 1.0.0
+Implementation-Vendor: Bogdan3000
+Implementation-Timestamp: 2024-08-25T00:10:57+0200
+

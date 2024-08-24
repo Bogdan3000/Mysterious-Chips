@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "ABD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "mchips:potato_syharic"
+    },
+    "B": {
+      "item": "mchips:classic_syharic"
+    },
+    "C": {
+      "item": "mchips:fish_syharic"
+    },
+    "D": {
+      "item": "mchips:porkchop_syharic"
+    },
+    "E": {
+      "item": "mchips:rotten_syharic"
+    }
+  },
+  "result": {
+    "item": "mchips:super_syharic"
+  }
+}
