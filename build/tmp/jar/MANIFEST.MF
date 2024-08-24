@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mysterious-chips
+Implementation-Version: 1.0.0
+Specification-Vendor: Bogdan3000
+Specification-Title: mchips
+Implementation-Timestamp: 2024-08-24T23:46:12+0200
+Specification-Version: 1
+Implementation-Vendor: Bogdan3000
+

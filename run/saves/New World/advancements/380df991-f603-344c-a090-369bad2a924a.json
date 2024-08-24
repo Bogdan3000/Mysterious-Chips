@@ -1,0 +1,21 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-24 23:23:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-24 23:45:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-08-24 23:23:34 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
