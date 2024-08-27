@@ -1,0 +1,20 @@
+{
+  "item.mchips.mini_syharic": "Сухари",
+  "itemGroup.mchips_tab": "Мистические Кириешки",
+  "item.mchips.potato_syharic": "Кириешки с Картошкой",
+  "item.mchips.fish_syharic": "Кириешки с Рыбой",
+  "item.mchips.classic_syharic": "Кириешки Классические",
+  "item.mchips.rotten_syharic": "Кириешки с Деликатесами",
+  "item.mchips.porkchop_syharic": "Кириешки со Свининой",
+  "item.mchips.super_syharic": "Супер Кириешки",
+  "item.mchips.golden_syharic": "Золотые Кириешки",
+  "mchips.description.syharic": "Супер сухарики наштампованные в подворотне у Ашота",
+  "mchips.description.golden_syharic.1": "Увеличиваемый эффект с каждым использованием",
+  "mchips.description.golden_syharic.2": "Эффект: Instant усиление сердец",
+  "mchips.description.fish_syharic": "Эффект: Скорость",
+  "mchips.description.porkchop_syharic": "Эффект: Прыгучесть",
+  "mchips.description.potato_syharic": "Эффект: Исцеление",
+  "mchips.description.rotten_syharic": "Эффект: Регенерация",
+  "mchips.description.super_syharic": "Эффекты: Регенерация, Сила, Огнестойкость, Поглощение, Скорость",
+  "mchips.description.classic_syharic": "Эффект: Отсутствует"
+}
